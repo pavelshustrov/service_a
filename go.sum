@@ -1,9 +1,7 @@
 github.com/go-resty/resty/v2 v2.7.0 h1:me+K9p3uhSmXtrBZ4k9jcEAfJmuC8IivWHwaLZwPrFY=
 github.com/go-resty/resty/v2 v2.7.0/go.mod h1:9PWDzw47qPphMRFfhsyk0NnSgvluHcljSMVIq3w7q0I=
-github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
-github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
-github.com/pavelshustrov/service_b v0.0.1 h1:TlGtE+5dGDB2vidwdlMeb/rhG0pTmeK4bM1eGanEVNE=
-github.com/pavelshustrov/service_b v0.0.1/go.mod h1:L2U6SFZ4MkPZr+xnHIAdvi8/sAKfWu6tZpTmXxixBNY=
+github.com/pavelshustrov/service_b/client v0.0.0-20230314222753-2e7051778b9f h1:aDqcuwbSHnv6bW4G++dTeqxzz/jmY2i87ZMBSRED4bA=
+github.com/pavelshustrov/service_b/client v0.0.0-20230314222753-2e7051778b9f/go.mod h1:+1Sg2ty/hfHeopZLhxU1sD0+NrVZ3vyT0xqLK0vMAoE=
 golang.org/x/net v0.0.0-20211029224645-99673261e6eb h1:pirldcYWx7rx7kE5r+9WsOXPXK0+WH5+uZ7uPmJ44uM=
 golang.org/x/net v0.0.0-20211029224645-99673261e6eb/go.mod h1:9nx3DQGgdP8bBQD5qxJ1jj9UTztislL4KSBs9R2vV5Y=
 golang.org/x/sys v0.0.0-20201119102817-f84b799fce68/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=

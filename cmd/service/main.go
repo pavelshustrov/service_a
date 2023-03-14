@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	v1 "github.com/pavelshustrov/service_b/pkg/client/v1"
+	"github.com/pavelshustrov/service_b/client/v1"
 )
 
 func main() {
